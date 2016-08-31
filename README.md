@@ -1,4 +1,4 @@
-Graphene Django Traffic Violaitons Demo
+Graphene Django Traffic Violations Demo
 ===============================
 
 This simple demo explores how to build, import, and query data using graphene
