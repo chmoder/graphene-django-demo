@@ -52,7 +52,7 @@ Now setup our database:
 ./manage.py migrate
 
 # Load some example data
-./manage.py loaddata ingredients
+./manage.py loaddata traffic_violations.json
 
 # Create an admin user (useful for logging into the admin UI
 # at http://127.0.0.1:8000/admin)
