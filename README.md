@@ -34,8 +34,6 @@ source env/bin/activate
 
 ```bash
 # uncompress our JSON data
-virtualenv env
-source env/bin/activate
 tar -xvvf traffic_violations.json
 ```
 
