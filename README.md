@@ -34,7 +34,7 @@ source env/bin/activate
 
 ```bash
 # uncompress our JSON data
-tar -xvvf traffic_violations.json
+tar -xvvf traffic_violations.json.tar.gz
 ```
 
 Now we can install our dependencies:
