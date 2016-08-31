@@ -36,7 +36,7 @@ source env/bin/activate
 # uncompress our JSON data
 virtualenv env
 source env/bin/activate
-tar -xvvf traffic_violations.json.tar.gz
+tar -xvvf traffic_violations.json
 ```
 
 Now we can install our dependencies:
